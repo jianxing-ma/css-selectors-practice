@@ -24,3 +24,8 @@ button {
     font-weight: bold;
     text-shadow: 4px 4px 3px #77f;
   }
+
+  /* ID selector */
+  #id {
+    background-color: rgb(137, 235, 135);
+  }
