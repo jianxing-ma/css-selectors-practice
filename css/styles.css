@@ -2,10 +2,16 @@ button {
     color: green;
 }
 
+/* universal selectors */
 * [lang^="en"] {
     color: aqua;
 }
 
 *.warning {
     color: red;
+  }
+
+  /* type selector */
+  span {
+    background-color: skyblue;
   }
