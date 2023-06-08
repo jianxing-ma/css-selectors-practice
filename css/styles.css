@@ -15,3 +15,12 @@ button {
   span {
     background-color: skyblue;
   }
+
+  /* class selector */
+  .red {
+    color: #f33;
+  }
+  .fancy {
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+  }
